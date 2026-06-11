@@ -299,8 +299,3 @@ int main()
             default:
                 printf("Invalid Choice\n");
         }
-
-    }while(choice!=0);
-
-    return 0;
-}
